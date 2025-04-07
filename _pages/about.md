@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Creative Media at City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and <a href="https://scholars.cityu.edu.hk/en/persons/miu-ling-lam(5eb6d755-d3d1-4d6c-9899-5a50de19a4e5).html">Prof. Miu-Ling Lam</a>. 
-Prior to this, I received my Master's degree in Computer Technology from Shanghai Jiao Tong University, under the guidance of <a href="https://dmcv.sjtu.edu.cn/people/">Prof. Lizhuang Ma</a>.
-My research interests lie in Computer Graphics and 3D Computer Vision, with a primary focus on sketch-based 3D modeling, 3D character animation, and controllable AIGC. 
+I am currently a 4th Ph.D. student in Creative Media at City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and <a href="https://scholars.cityu.edu.hk/en/persons/miu-ling-lam(5eb6d755-d3d1-4d6c-9899-5a50de19a4e5).html">Prof. Miu-Ling Lam</a>. 
+Prior to this, I received my Master's degree in Control Engineering and Science from Xidian University, under the guidance of <a href="https://see.xidian.edu.cn/faculty/xbgao/">Prof. Xinbo Gao</a>. 
+My research interests lie in Computer Graphics, with a primary focus on controllable human content generation, sketch-based interaction, and character animation. 
 I am also collaborating closely with <a href="https://gaplab.cuhk.edu.cn/pages/people">Prof. Xiaoguang Han</a>.
 
 <!-- ############## -->
@@ -19,9 +19,9 @@ I am also collaborating closely with <a href="https://gaplab.cuhk.edu.cn/pages/p
 
 Interests
 ------
-* Sketch-based 3D Modeling
-* 3D Character Animation
-* Controllable AIGC
+* Controllable Human Content Generation
+* Sketch-based Interaction
+* Character Animation
 
 <!-- ############## -->
 <!-- news -->
@@ -38,100 +38,96 @@ Interests
 Selected Publications
 ------
 <div>
-  <img style="float: left" src="../jzimages/pub/DrawingSpinUp.png" width="300px">
+  <img style="float: left" src="../lzimages/pub/sketch2humanvideo.jpg" width="300px">
 </div>
 <div>
-  <img style="float: left" src="../jzimages/border_row2.png" width="10px">
+  <img style="float: left" src="../lzimages/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:118%">
     <font size="4">
-      <b><i>DrawingSpinUp</i>: 3D Animation from Single Character Drawings</b>
+      <b>Controllable Human Video Generation from Sparse Sketches</b>
       <br>
     </font> 
     <font size="2">
-      <b>Jie Zhou</b>, 
-      Chufeng Xiao,
+      <b>Linzi Qu</b>, 
+      Jiaxiang Shang,
       Miu-Ling Lam, 
       Hongbo Fu
       <br>
     </font> 
     <font size="2">
-      ACM SIGGRAPH Asia Conference, 2024
+      IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2409.08615">[arXiv]</a> /
-      <a href="https://lordliang.github.io/DrawingSpinUp/">[project]</a> /
-      <a href="https://github.com/LordLiang/DrawingSpinUp">[code]</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10892030">[paper]</a> /
+      <a href="https://linziqu.github.io/sketch2humanvideo.github.io/">[project]</a> /
+      <a href="https://github.com/linziqu/Sketch2HumanVideo">[code]</a>
     </font>
   </p>
 </div>
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/GA-Sketching.png" width="300px">
+  <img style="float: left" src="../lzimages/pub/sketch2human.jpg" width="300px">
 </div>
 <div>
-  <img style="float: left" src="../jzimages/border_row2.png" width="10px">
+  <img style="float: left" src="../lzimages/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:118%">
     <font size="4">
-      <b><i>GA-Sketching</i>: Shape Modeling from Multi-View Sketching with Geometry-Aligned Deep Implicit Functions</b>
+      <b><i>Sketch2Human</i>: Deep Human Generation with Disentangled Geometry and Appearance Constraints</b>
       <br>
     </font> 
     <font size="2">
-      <b>Jie Zhou</b>, 
-      Zhongjin Luo, 
-      Qian Yu, 
+      <b>Linzi Qu</b>, 
+      Jiaxiang Shang,
+      Hui Ye,
       Xiaoguang Han, 
       Hongbo Fu
       <br>
     </font> 
     <font size="2">
-      Pacific Graphics/Computer Graphics Forum (PG/CGF), 2023 
+      IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024
       <br>
     </font> 
     <font size="2">
-      <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14948">[paper]</a> / 
-      <a href="https://arxiv.org/abs/2309.05946">[arXiv]</a> /
-      <a href="https://github.com/LordLiang/GA-Sketching">[code]</a>
+      <a href="https://ieeexplore.ieee.org/document/10538021">[paper]</a> / 
+      <a href="https://linziqu.github.io/sketch2human.github.io/">[project]</a>
     </font>
   </p>
 </div>
 <br>
 
 <div>
-  <img style="float: left" src="../jzimages/pub/SimpModeling.png" width="300px">
+  <img style="float: left" src="../lzimages/pub/reenactartface.jpg" width="300px">
 </div>
 <div>
-  <img style="float: left" src="../jzimages/border_row2.png" width="10px">
+  <img style="float: left" src="../lzimages/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:118%">
     <font size="4">
-      <b><i>SimpModeling</i>: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
+      <b><i>ReenactArtFace</i>: Artistic Face Image Reenactment</b>
       <br>
     </font> 
     <font size="2">
-      Zhongjin Luo, 
-      <b>Jie Zhou</b>, 
-      Heming Zhu, 
-      Dong Du, 
-      Xiaoguang Han,
+      <b>Linzi Qu</b>, 
+      Jiaxiang Shang,
+      Xiaoguang Han, 
       Hongbo Fu
       <br>
     </font> 
     <font size="2">
-      ACM Symposium on User Interface Software and Technology (UIST), 2021
+      IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023
       <br>
     </font> 
     <font size="2">
-      <a href="https://dl.acm.org/doi/abs/10.1145/3472749.3474791">[paper]</a> /
-      <a href="https://arxiv.org/abs/2108.02548">[arXiv]</a> / 
-      <a href="https://zhongjinluo.github.io/SimpModeling/">[project]</a> /
-      <a href="https://github.com/zhongjinluo/SimpModeling/">[code]</a>
+      <a href="https://ieeexplore.ieee.org/document/10061279">[paper]</a> / 
+      <a href="https://linziqu.github.io/reenactartface.github.io/">[project]</a> /
+      <a href="https://github.com/linziqu/ReenactArtFace">[code]</a>
     </font>
   </p>
 </div>
@@ -143,50 +139,50 @@ Selected Publications
 Education
 ------
 <div>
-<img style="float: left; width: 75px" src="../jzimages/edu/cityu.jpg">
-<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../lzimages/edu/cityu.jpg">
+<img style="float: left" src="../lzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>City University of Hong Kong</b><br></font> 
-  <font size="2">Nov. 2020 – Present<br></font> 
+  <font size="2">Sep. 2021 – Present<br></font> 
   <font size="2">Ph.D. student in Creative Media at <a href="https://hongbofu.people.ust.hk/">Hongbo's Group</a><br></font>
 </p>  
 </div>
 
 <div>
-<img style="float: left; width: 75px" src="../jzimages/edu/sjtu.png">
-<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../lzimages/edu/xidian.jpg">
+<img style="float: left" src="../lzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>Shanghai Jiao Tong University</b><br></font> 
-  <font size="2">Sep. 2017 – Mar. 2020<br></font> 
-  <font size="2">Master's Degree in Computer Technology at <a href="https://dmcv.sjtu.edu.cn/">DMCV Lab</a><br></font>
+  <font size="4"><b>Xidian University</b><br></font> 
+  <font size="2">Sep. 2018 – Jun. 2021<br></font> 
+  <font size="2">Master's Degree in Control Engineering and Science at <a href="https://see.xidian.edu.cn/vipsl/index.html">VIPs Lab</a><br></font>
 </p>  
 </div>
 
 <div>
-<img style="float: left; width: 75px" src="../jzimages/edu/seu.png">
-<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../lzimages/edu/xidian.jpg">
+<img style="float: left" src="../lzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>Southeast University</b><br></font> 
-  <font size="2">Sep. 2013 – Jun. 2017<br></font> 
-  <font size="2">Bachelor's Degree in Computer Science and Engineering <br></font>
+  <font size="4"><b>Xidian University</b><br></font> 
+  <font size="2">Sep. 2014 – Jun. 2018<br></font> 
+  <font size="2">Bachelor's Degree in Electronic Information Engineering <br></font>
 </p>  
 </div>
 
 Professional Experience
 ------
 <div>
-<img style="float: left; width: 75px" src="../jzimages/edu/cityu.jpg">
-<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../lzimages/edu/tsinghua.jpg">
+<img style="float: left" src="../lzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>The City University of Hong Kong</b><br></font> 
-  <font size="2">Nov. 2024 – Present<br></font> 
-  <font size="2">Research Assistant at School of Creative Media <br></font>
+  <font size="4"><b>Tsinghua University</b><br></font> 
+  <font size="2">Feb. 2025 – Present<br></font> 
+  <font size="2">Visiting Ph.D. Student at the lab of <a href="https://www.liuyebin.com/bio.html">Prof. Yebin Liu.</a><br></font>
 </p>  
 </div>
 
 <div>
-<img style="float: left; width: 75px" src="../jzimages/edu/cuhksz.png">
-<img style="float: left" src="../jzimages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../lzimages/edu/cuhksz.png">
+<img style="float: left" src="../lzimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>The Chinese University of Hong Kong, Shenzhen</b><br></font> 
   <font size="2">May. 2022 – Sep. 2022<br></font> 
@@ -194,20 +190,12 @@ Professional Experience
 </p>  
 </div>
 
-<div>
-<img style="float: left; width: 75px" src="../jzimages/exp/youtu.jpg">
-<img style="float: left" src="../jzimages/border_row1.png" width="10px">
-<p style="line-height:125%">
-  <font size="4"><b>Tencent Inc., Shanghai</b><br></font> 
-  <font size="2">Jul. 2019 – Mar. 2020<br></font> 
-  <font size="2">Research Intern. at Tencent YouTu Lab. <br></font>
-</p>  
-</div>
+
 
 Service
 ------
 * I serve as a paper reviewer for CGI 2025.
-* I serve as a paper reviewer for SIGGRAPH 2025.
+* I serve as a paper reviewer for CGI 2024.
 
 <!-- ############## -->
 <!-- visit map -->

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Zhou"
+title                    : "Linzi Qu"
 title_separator          : "-"
-name                     : &name "Jie Zhou"
+name                     : &name "Linzi Qu"
 description              : &description "personal description"
-url                      : https://lordliang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://LinziQU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LordLiang/LordLiang.github.io"
+repository               : "linziqu/LinziQU.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Zhou 周婕"
-  avatar           : "../jzimages/exusiai.jpg"
+  name             : "Linzi Qu 屈琳子"
+  avatar           : "../lzimages/linziqu.png"
   # bio              : ""
   bio              : "Ph.D. student @ CityUHK."
   location         : "Hong Kong, China"
   employer         :
   pubmed           : # ""
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Xl-OjXIAAAAJ"
-  email            : "jzhou67-c@my.cityu.edu.hk"
+  googlescholar    : #"*"
+  email            : "linziqu2-c@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LordLiang"
+  github           : "linziqu"
   google_plus      :
   keybase          :
   instagram        :
