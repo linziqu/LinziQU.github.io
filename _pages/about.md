@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th Ph.D. student in Creative Media at City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and <a href="https://scholars.cityu.edu.hk/en/persons/miu-ling-lam(5eb6d755-d3d1-4d6c-9899-5a50de19a4e5).html">Prof. Miu-Ling Lam</a>. 
+I obtained my Ph.D. in Creative Media from City University of Hong Kong, under the supervision of <a href="https://hongbofu.people.ust.hk/">Prof. Hongbo Fu</a> and <a href="https://scholars.cityu.edu.hk/en/persons/miu-ling-lam(5eb6d755-d3d1-4d6c-9899-5a50de19a4e5).html">Prof. Miu-Ling Lam</a>. 
 Prior to this, I received my Master's degree in Control Engineering and Science from Xidian University, under the guidance of <a href="https://see.xidian.edu.cn/faculty/xbgao/">Prof. Xinbo Gao</a>. 
 My research interests lie in Computer Graphics, with a primary focus on controllable human content generation, sketch-based interaction, and character animation. 
 I am also collaborating closely with <a href="https://gaplab.cuhk.edu.cn/pages/people">Prof. Xiaoguang Han</a>.
@@ -37,6 +37,38 @@ Interests
 
 Selected Publications
 ------
+<div>
+  <img style="float: left" src="../lzimages/pub/rigging2waving.jpg" width="300px">
+</div>
+<div>
+  <img style="float: left" src="../lzimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters</b>
+      <br>
+    </font> 
+    <font size="2">
+      Jie Zhou†,
+      <b>Linzi Qu†</b>, 
+      Miu-Ling Lam, 
+      Hongbo Fu
+      <br>
+    </font> 
+    <font size="2">
+      ACM Transactions on Graphics (TOG), 2025
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2509.06573">[paper]</a> /
+      <a href="https://lordliang.github.io/From-Rigging-to-Waving">[project]</a> /
+      <a href="https://github.com/LordLiang/From-Rigging-to-Waving">[code]</a>
+    </font>
+  </p>
+</div>
+<br>
+
 <div>
   <img style="float: left" src="../lzimages/pub/sketch2humanvideo.jpg" width="300px">
 </div>
